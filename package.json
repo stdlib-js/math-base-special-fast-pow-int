@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fast-pow-int",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Exponential function.",
   "license": "Apache-2.0",
   "author": {
