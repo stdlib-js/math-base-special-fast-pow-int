@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.pow;
+})();
 })();
 </script>
 ```
@@ -151,6 +153,7 @@ v = pow( NaN, 3 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var x;
 var y;
@@ -162,6 +165,7 @@ for ( y = 0; y < 309; y++ ) {
     console.log( '%d^%d = %d', x, y, v );
 }
 
+})();
 })();
 </script>
 </body>
@@ -259,7 +263,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/special/pow]: https://github.com/stdlib-js/math-base-special-pow/tree/umd
+[@stdlib/math/base/special/pow]: https://github.com/stdlib-js/math-base-special-pow/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
