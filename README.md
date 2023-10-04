@@ -67,7 +67,7 @@ where `b` is the **base** and `x` is the **exponent**.
 To use in Observable,
 
 ```javascript
-pow = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@umd/browser.js' )
+pow = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.1.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -79,7 +79,7 @@ var pow = require( 'path/to/vendor/umd/math-base-special-fast-pow-int/index.js' 
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.1.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -163,7 +163,7 @@ v = pow( NaN, 3 );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.1.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
