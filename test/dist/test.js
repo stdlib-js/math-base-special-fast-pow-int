@@ -35,9 +35,9 @@ var pow = require( './../../dist' );
 
 // FIXTURES //
 
-var decimalInteger = require( './../..xtures/julia/decimal_integer.json' );
-var integerInteger = require( './../..xtures/julia/integer_integer.json' );
-var multiplesOfTen = require( './../..xtures/julia/multiples_of_ten.json' );
+var decimalInteger = require( './../fixtures/julia/decimal_integer.json' );
+var integerInteger = require( './../fixtures/julia/integer_integer.json' );
+var multiplesOfTen = require( './../fixtures/julia/multiples_of_ten.json' );
 
 
 // TESTS //
