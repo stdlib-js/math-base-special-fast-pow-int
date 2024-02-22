@@ -65,7 +65,7 @@ where `b` is the **base** and `x` is the **exponent**.
 ## Usage
 
 ```javascript
-import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@esm/index.mjs';
+import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.2.1-esm/index.mjs';
 ```
 
 #### pow( base, exponent )
@@ -141,7 +141,7 @@ v = pow( NaN, 3 );
 <body>
 <script type="module">
 
-import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@esm/index.mjs';
+import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.2.1-esm/index.mjs';
 
 var x;
 var y;
