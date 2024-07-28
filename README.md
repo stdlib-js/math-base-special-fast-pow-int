@@ -65,6 +65,11 @@ where `b` is the **base** and `x` is the **exponent**.
 ## Usage
 
 ```javascript
+import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-fast-pow-int/tags). For example,
+
+```javascript
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.3.0-deno/mod.js';
 ```
 
@@ -136,7 +141,7 @@ v = pow( NaN, 3 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@v0.3.0-deno/mod.js';
+import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-pow-int@deno/mod.js';
 
 var x;
 var y;
