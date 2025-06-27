@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-13)
+## Unreleased (2025-06-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`aa8b15b`](https://github.com/stdlib-js/stdlib/commit/aa8b15b9c8aa11db7dc584b0368fedeb98ef885a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`b8286e1`](https://github.com/stdlib-js/stdlib/commit/b8286e14368fbfaba1b39964f9ebe11801edaea0) - **bench:** updates random value generation and docs [(#6658)](https://github.com/stdlib-js/stdlib/pull/6658) _(by Harsh)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`cfc0665`](https://github.com/stdlib-js/stdlib/commit/cfc0665435a1f99158d7fed39b8873dea6aa6209) - **docs:** add missing private tag _(by Philipp Burckhardt)_
