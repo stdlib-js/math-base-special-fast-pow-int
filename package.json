@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fast-pow-int",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Exponential function.",
   "license": "Apache-2.0",
   "author": {
@@ -40,9 +40,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-pinf": "^0.2.2",
-    "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-napi-binary": "^0.3.2",
+    "@stdlib/constants-float64-pinf": "^0.2.3",
+    "@stdlib/math-base-assert-is-nan": "^0.2.3",
+    "@stdlib/math-base-napi-binary": "^0.3.3",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
@@ -50,8 +50,8 @@
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/math-base-assert-is-negative-zero": "^0.2.2",
     "@stdlib/math-base-assert-is-positive-zero": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.2",
-    "@stdlib/math-base-special-round": "^0.3.0",
+    "@stdlib/math-base-special-abs": "^0.2.3",
+    "@stdlib/math-base-special-round": "^0.3.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.2",
