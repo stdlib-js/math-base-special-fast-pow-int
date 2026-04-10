@@ -194,7 +194,7 @@ for ( y = 0; y < 309; y++ ) {
 ### Usage
 
 ```c
-#include "stdlib/math/base/special/fast/pow.h"
+#include "stdlib/math/base/special/fast/pow_int.h"
 ```
 
 #### stdlib_base_fast_pow( x, y )
@@ -237,7 +237,7 @@ double stdlib_base_fast_pow( const double x, const int32_t y );
 ### Examples
 
 ```c
-#include "stdlib/math/base/special/fast/pow.h"
+#include "stdlib/math/base/special/fast/pow_int.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdint.h>
@@ -316,8 +316,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-fast-pow-int.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-special-fast-pow-int
 
-[test-image]: https://github.com/stdlib-js/math-base-special-fast-pow-int/actions/workflows/test.yml/badge.svg?branch=v0.3.1
-[test-url]: https://github.com/stdlib-js/math-base-special-fast-pow-int/actions/workflows/test.yml?query=branch:v0.3.1
+[test-image]: https://github.com/stdlib-js/math-base-special-fast-pow-int/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/math-base-special-fast-pow-int/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-fast-pow-int/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-fast-pow-int?branch=main

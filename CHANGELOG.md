@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-10)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`48446bf`](https://github.com/stdlib-js/stdlib/commit/48446bf41b398ccab27b401cff5f1545dac0b279) - rename header file [(#11232)](https://github.com/stdlib-js/stdlib/pull/11232)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11230](https://github.com/stdlib-js/stdlib/issues/11230)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`48446bf`](https://github.com/stdlib-js/stdlib/commit/48446bf41b398ccab27b401cff5f1545dac0b279) - **fix:** rename header file [(#11232)](https://github.com/stdlib-js/stdlib/pull/11232) _(by Moh Zaid Khan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Moh Zaid Khan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
